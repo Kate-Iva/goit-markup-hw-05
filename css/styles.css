@@ -720,6 +720,7 @@ fill: #f4f4fd;
     margin-bottom: 16px;
 }
 .input-textarea {
+    color: rgba(46, 47, 66, 0.4);
     font-size: 12px;
     line-height: 1.17;
     letter-spacing: 0.04em;
